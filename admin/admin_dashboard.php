@@ -51,7 +51,7 @@
                 <h3> Task Management System</h3>
             </div>
             <div class="col-md-6" style="display:inline-block; text-align:right">
-                <b> Email:</b> user@gmail.com
+                <b> Email:</b> ahmedgay@gmail.com
                 <span style="margin-left:25px;"><b>Name:</b>user </span>
             </div>
         </div>
