@@ -1,0 +1,42 @@
+body{
+    background-color: #59b4d8;
+    margin: 0px;
+    padding: 0px;
+}
+#home_page{
+    background-color: azure;
+    top:25vh;
+    
+    height: 25vh;
+    padding-left: 30px;
+    
+
+}
+#login_home_page{
+    
+    top: 30vh;
+    padding-left: 35 px;
+    margin-bottom: 20px;
+}
+#header{
+    padding-top: 10px;
+    padding-left: 30px;
+    background-color: rgb(234, 219, 199);
+   
+}
+#left_sidebar{
+    margin-top: 50px;
+    margin-left: 20px;
+    display: inline-block;
+    width: 13vw;
+    height: 30vh;
+    
+}
+#right_sidebar{
+    display: inline-block;
+    padding: 35px;
+    height: 75vh;
+    width: 75vw;
+    margin-left: 30px;
+    
+}
